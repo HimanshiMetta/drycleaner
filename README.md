@@ -7,9 +7,6 @@ Technologies used :
 2) Angular 12
 3) MySQL
 
-The validation part of the front end is done by Vir Navalkar and Neel Dantara. I'll be adding their IDs as well soon. I'll attach the pics of the front end as well so that you can see the up and running project.
-
-
 
 
 ![1](https://user-images.githubusercontent.com/67338706/135803117-95ecc14d-c09b-4f2b-a645-3a09acb231b8.png)
